@@ -1,0 +1,8 @@
+Toyota+-/Camry+-/Corolla+-/Carina+-/Calina
+BMW+-/X5+-/X4
+Honda+-/Accord+-/Fit
+Mercedes+-/Benz E-class+-/A-Class
+Skoda+-/Fabia IV+-/Rapid
+Renault
+Lada+-/Vesta
+
